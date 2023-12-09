@@ -9,6 +9,10 @@ module.exports = {
         "neutral-dark-blue": "hsl(212, 21%, 14%)",
         "neutral-grayish-blue": "hsl(212, 21%, 14%)",
       },
+      screens: {
+        mobile: "375px",
+        desktop: "1440px",
+      },
     },
   },
   plugins: [],
